@@ -2,6 +2,7 @@
 ---
 소속 : 소프트웨어융합대학    
 전공 : 빅데이터 전공
+이름 : 서종오
 
 관심분야   
 * 인공지능
@@ -29,3 +30,4 @@
 github address:[bell-five][github]
 
 [github]:http://github.com/bell-five
+
