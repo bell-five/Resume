@@ -36,3 +36,4 @@ github address:[bell-five][github]
 #### 1. Zombie Game
 
 ![좀비게임](zombiegame1.png)
+![좀비게임](zombiegame2.png)
