@@ -35,5 +35,5 @@ github address:[bell-five][github]
 ----
 #### 1. Zombie Game
 
-<img src = zombie game1 (1).jpg height = 150 widht = 150>
+<img src = zombiegame1.jpg height = 150 widht = 150>
 
