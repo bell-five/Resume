@@ -35,5 +35,4 @@ github address:[bell-five][github]
 ----
 #### 1. Zombie Game
 
-<img src =zombiegame1.jpg height = 150 widht = 150>
-![좀비게임](# 한림대학교 빅데이터과 
+<img src =zombiegame1.png height = 150 widht = 150>
